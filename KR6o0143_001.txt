@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:40.474765
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:00
 #+TITLE: 密跡力士大權神王經偈頌
 #+PROPERTY: CBETA_ID T32n1688
 #+PROPERTY: ID KR6o0143
@@ -13,7 +13,7 @@
 ¶
 No.1688¶
 
-序
+* 序
 :PROPERTIES:
 :head: 《密跡力士大權神王經偈頌》序
 :END:
@@ -162,9 +162,9 @@ No.1688¶
 　拙口鈍詞舌¶
 　無能敢下筆
 　不昧真如理¶
-　末法一萬年
+　末法一萬年」
 #+END_VERSE
-」¶
+¶
 
 三寶印證無增減。¶
 
